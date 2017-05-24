@@ -10,11 +10,16 @@
             background-size: 1400px 750px;
             background-repeat: no-repeat;
       }
+      <html>
+   <head>
       <style>
-<img src="https://media.giphy.com/media/BLvEwDd2WQ36/giphy.gif">
-         #relatively {
-         position: fixed;
-         top: 0px;
-         left: 5px
+      img.rocky {
+          height: 200px;
       }
-</style>
+      </style>
+   </head>
+<body>
+   <img id="a" class="rocky" src="https://media.giphy.com/media/BLvEwDd2WQ36/giphy.gif" />
+   
+</body>
+</html>
