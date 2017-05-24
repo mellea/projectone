@@ -6,7 +6,8 @@
          font-size: 28pt;
       }
       body {
-          background-image: url("https://images.genius.com/9fda81dde5dba59613fdee7dc7467c77.1000x1000x1.jpg");
+         position: relative;
+         background-image: url("https://images.genius.com/9fda81dde5dba59613fdee7dc7467c77.1000x1000x1.jpg");
             background-size: 1400px 750px;
             background-repeat: no-repeat;
       }
