@@ -15,11 +15,17 @@
       <style>
       img.rocky {
           height: 200px;
+         
       }
       </style>
    </head>
 <body>
    <img id="a" class="rocky" src="https://media.giphy.com/media/BLvEwDd2WQ36/giphy.gif" />
-   
+   img#a {
+    position: relative;
+    top: 20px;
+    left: -100px;
+}
+
 </body>
 </html>
