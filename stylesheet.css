@@ -3,6 +3,11 @@
          color: white;
          font-size: 28pt;
       }
+h2 {
+    position: relative;
+    top: 20px;
+    left: -100px;
+}
       body {
          background-image: url("https://images.genius.com/9fda81dde5dba59613fdee7dc7467c77.1000x1000x1.jpg");
             background-size: 1400px 750px;
@@ -17,4 +22,5 @@ img.rocky {
     top: 20px;
     left: -100px;
 }
+
 
