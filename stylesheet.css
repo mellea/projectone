@@ -5,7 +5,7 @@
       }
 h2 {
     position: relative;
-    top: 20px;
+    top: 40px;
 }
       body {
          background-image: url("https://images.genius.com/9fda81dde5dba59613fdee7dc7467c77.1000x1000x1.jpg");
@@ -19,7 +19,7 @@ img.rocky {
    img#a {
     position: relative;
     top: 20px;
-    left: -100px;
+    left: 100px;
 }
 
 
