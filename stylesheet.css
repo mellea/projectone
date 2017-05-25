@@ -15,11 +15,12 @@ h2 {
 img.rocky {
           height: 200px;
           width: 300px;
+  
       }
    img#a {
     position: relative;
     top: 20px;
-    left: 500px;
+    left: 600px;
 }
 
 
