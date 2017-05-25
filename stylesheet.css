@@ -1,6 +1,4 @@
-<html>
-   <head>
-      <style>
+
       h1 {
          color: white;
          font-size: 28pt;
@@ -10,22 +8,13 @@
             background-size: 1400px 750px;
             background-repeat: no-repeat;
       }
-      <html>
-   <head>
-      <style>
-      img.rocky {
+img.rocky {
           height: 300px;
          
       }
-      </style>
-   </head>
-<body>
-   <img id="a" class="rocky" src="https://media.giphy.com/media/BLvEwDd2WQ36/giphy.gif" />
    img#a {
     position: relative;
     top: 20px;
     left: -100px;
 }
 
-</body>
-</html>
