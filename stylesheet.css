@@ -26,7 +26,7 @@ img.rocky {
 button {
       position: relative;
       margin-left: 500px;
-            top: -700px;
+            top: -900px;
       color: blue;
 }
 h3 {
@@ -43,6 +43,6 @@ h4 {
 }
 h5 {
       position: relative;
-      top: -300px;
+      top: -350px;
 }
 
