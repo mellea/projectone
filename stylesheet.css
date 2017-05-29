@@ -50,3 +50,6 @@ h6 {
       top: -600px;
       margin-left: 700px;
 }
+#footer .content p {
+    margin-bottom: 0
+}
