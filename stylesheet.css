@@ -30,7 +30,7 @@ button {
 }
 h3 {
       position: relative;
-      margin-left: 300px
-            top -300px;
+      margin-left: 300px;
+            top: -300px;
 }
 
