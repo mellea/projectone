@@ -42,7 +42,7 @@ h4 {
       color: white;
 }
 h5 {
-      position: relative;
+      position: static;
       top: -392px;
 }
 h6 {
