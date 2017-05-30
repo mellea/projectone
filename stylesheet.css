@@ -43,13 +43,7 @@ h4 {
 }
 h5 {
       position: relative;
-      top: -392px;
+      top: -350px;
 }
-h6 {
-      position: relative;
-      top: -1000px;
-      margin-left: 980px;
-}
-#footer .content p {
-    margin-bottom: 0
-}
+
+
