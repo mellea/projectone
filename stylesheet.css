@@ -46,7 +46,7 @@ h5 {
       top: -450px;
 }
 audio{
-      position: relative;
+      position: static;
       margin-left: 500px;
 }
 
