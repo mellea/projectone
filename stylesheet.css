@@ -4,7 +4,7 @@
          font-size: 28pt;
       }
 h2 {
-    position: static;
+    position: relative;
     top: -200px;
 }
       body {
@@ -19,34 +19,34 @@ img.rocky {
   
       }
    img#a {
-    position: static;
+    position: relative;
     top: 40px;
     left: 500px;
 }
 button {
-      position: static;
+      position: relative;
       margin-left: 500px;
             top: -1100px;
       color: blue;
 }
 h3 {
-      position: static;
+      position: relative;
       top: -300px;
       margin-left: 500px;
       color: blue;
 }
 h4 {
-      position: static;
+      position: relative;
       margin-left: 500px;
       top: -800px;
       color: white;
 }
 h5 {
-      position: static;
+      position: relative;
       top: -392px;
 }
 h6 {
-      position: static;
+      position: relative;
       top: -800px;
       margin-left: 980px;
 }
