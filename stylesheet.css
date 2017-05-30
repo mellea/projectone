@@ -24,19 +24,19 @@ img.rocky {
     left: 500px;
 }
 button {
-      position: relative;
+      position: static;
       margin-left: 500px;
             top: -1100px;
       color: blue;
 }
 h3 {
-      position: relative;
+      position: static;
       top: -300px;
       margin-left: 500px;
       color: blue;
 }
 h4 {
-      position: relative;
+      position: static;
       margin-left: 500px;
       top: -800px;
       color: white;
