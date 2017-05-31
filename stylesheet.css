@@ -49,4 +49,7 @@ audio{
       position: static;
       margin-left: 500px;
 }
-
+video {
+      position: relative;
+      margin-left: 500px;
+}
