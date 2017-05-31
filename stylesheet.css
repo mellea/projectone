@@ -14,7 +14,7 @@ h2 {
             background-size: 1400px 750px;
             background-repeat: no-repeat;
       }
-img.rocky {
+img.raf {
           height: 200px;
           width: 300px;
       margin-left: 500px;
@@ -22,7 +22,7 @@ img.rocky {
       }
    img#a {
     position: relative;
-    top: 40px;
+    top: 100px;
     left: 500px;
 }
 
