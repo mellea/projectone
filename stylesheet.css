@@ -31,14 +31,14 @@ button {
 }
 h3 {
       position: relative;
-      top: -500px;
+      top: -400px;
       margin-left: 500px;
       color: blue;
 }
 h4 {
       position: relative;
       margin-left: 500px;
-      top: -900px;
+      top: -800px
       color: white;
 }
 h5 {
