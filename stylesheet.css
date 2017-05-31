@@ -1,8 +1,9 @@
 
       h1 {
          color: white;
-         font-size: 28pt;
-            top: -800px;
+         position: relative;
+            font-size: 28pt;
+            top: -600px;
       }
 h2 {
     position: relative;
