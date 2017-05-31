@@ -7,7 +7,7 @@
       }
 h2 {
     position: relative;
-    top: -500px;
+    top: -550px;
 }
       body {
          background-image: url("https://images.genius.com/9fda81dde5dba59613fdee7dc7467c77.1000x1000x1.jpg");
@@ -28,8 +28,8 @@ img.rocky {
 
 h3 {
       position: relative;
-      top: -400px;
-      margin-left: 900px;
+      top: -500px;
+      margin-left: 850px;
       color: blue;
 }
 h4 {
