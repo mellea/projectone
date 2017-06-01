@@ -22,7 +22,7 @@ img.raf {
       }
    img#a {
     position: relative;
-    top: 200px;
+    top: -200px;
     left: 800px;
 }
 
